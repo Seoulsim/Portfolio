@@ -7,5 +7,9 @@ github.com/Seoulsim/ClothingDetection
 
 github.com/Seoulsim/ToxicityDetection
 
+HIGHLY IN PROGRESS:
+
+github.com/Seoulsim/PokemonDoublesAI
+
 ## FullStack Projects
 github.com/gdsc-dvote/blockchain-voting-system
