@@ -1,8 +1,9 @@
 # Portfolio
 A github repository which organizes my github repositories
 
-$repo/Machine_learning
-  My artificial intellignece and machine learning projects
+Machine Learning and Artificial Intelligence Projects:
+  github.com/Seoulsim/ClothingDetection
+  github.com/Seoulsim/ToxicityDetection
 
-$repo/FullStack
-  My full stack proects
+FullStack Projects
+  github.com/gdsc-dvote/blockchain-voting-system
