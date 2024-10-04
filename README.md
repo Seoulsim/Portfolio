@@ -14,4 +14,7 @@ github.com/Seoulsim/PokemonDoublesAI
 ## FullStack Projects
 github.com/gdsc-dvote/blockchain-voting-system
 
-github.com/Seoulsim/Restify <Private>
+github.com/Seoulsim/Restify (Private)
+
+## Distributed Systems Projects
+github.com/Seoulsim/URLShortnerJava (Private)
